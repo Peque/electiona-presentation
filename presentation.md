@@ -30,10 +30,10 @@ electiona.com
 Solución integral
 -----------------
 
-- Análisis y visualización (arcos, tablas, mapas...)
-- Simulador de mayorías
+- Análisis y visualización
 - Tiempo real
 - Histórico
+- Simulador de mayorías
 
 ---
 
@@ -79,17 +79,16 @@ Resultados
 
 Modelo                       | Acierto
 -----------------------------|--------
-Random forest                | 74%
 Support Vector Machine       | 80%
 Convolutional Neural Network | 76%
-Gradient-Boosted Tree        | 74%
+Random forest                | 74%
 
 Popularidad
 -----------
 
-- ¿Se habla mucho?
 - ¿Se habla bien?
-- ¿Se comparte?
+- ¿Se habla mucho?
+- ¿Se comparte y gusta?
 
 Previsión
 ---------
