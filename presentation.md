@@ -1,4 +1,4 @@
-% Electiona
+% El valor de los datos en el entorno de media
 % Miguel Sánchez de León Peque
 % 2017-12-13
 
@@ -8,12 +8,14 @@ Sobre nosotros
 OpenSistemas
 ------------
 
+- 15+ años
 - Procesamiento, análisis y visualización de datos
-- Integración en la nube, migración
+- Integración en la nube, migración (Azure)
 - Servicios y productos
-- Empleados?
-- Crecimiento?
-- más?
+
+---
+
+![](images/clients.png)
 
 Sobre mí
 --------
@@ -29,15 +31,13 @@ electiona.com
 Solución integral
 -----------------
 
-- Análisis y visualización
+- Análisis y visualización (arcos, tablas, mapas...)
+- Simulador de mayorías
 - Tiempo real
 - Histórico
 
-Ingesta
--------
-
-Visualización
--------------
+Arcos, tablas, mapas
+--------------------
 
 
 Machine learning
@@ -49,6 +49,21 @@ Ingesta
 Clasificación
 -------------
 
+- Sentimiento :+1: :-1:
+- Supervisado
+
+---
+
+![](images/audio-image-text.png)
+
+Word2vec
+--------
+
+![](images/word2vec.png)
+
+Modelos
+-------
+
 ![](images/scikitlearn_classifier_comparison.png)
 
 ---
@@ -56,7 +71,7 @@ Clasificación
 Modelo                       | Acierto
 -----------------------------|--------
 Random forest                | 74%
-**Support Vector Machine**   | **80%**
+Support Vector Machine       | 80%
 Convolutional Neural Network | 76%
 Gradient-Boosted Tree        | 74%
 
