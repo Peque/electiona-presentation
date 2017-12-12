@@ -5,8 +5,9 @@
 Sobre nosotros
 ==============
 
-OpenSistemas
-------------
+---
+
+![](images/opensistemas-logo.svg){width=30%}
 
 - 15+ años
 - Procesamiento, análisis y visualización de datos
