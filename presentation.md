@@ -11,7 +11,6 @@ OpenSistemas
 - 15+ años
 - Procesamiento, análisis y visualización de datos
 - Integración en la nube, migración (Azure)
-- Servicios y productos
 
 ---
 
@@ -36,15 +35,24 @@ Solución integral
 - Tiempo real
 - Histórico
 
-Arcos, tablas, mapas
---------------------
+---
+
+![](images/electiona.png)
 
 
 Machine learning
 ================
 
-Ingesta
--------
+Extracción
+----------
+
+- Sentimiento
+- Popularidad
+- Impacto
+
+---
+
+![](images/twitter-architecture.svg){width=60%}
 
 Clasificación
 -------------
@@ -66,7 +74,8 @@ Modelos
 
 ![](images/scikitlearn_classifier_comparison.png)
 
----
+Resultados
+----------
 
 Modelo                       | Acierto
 -----------------------------|--------
@@ -78,8 +87,14 @@ Gradient-Boosted Tree        | 74%
 Popularidad
 -----------
 
+- ¿Se habla mucho?
+- ¿Se habla bien?
+- ¿Se comparte?
+
 Previsión
 ---------
+
+![](images/prediction.png)
 
 
 Herramientas
